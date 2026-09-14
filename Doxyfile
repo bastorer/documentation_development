@@ -1,0 +1,12 @@
+PROJECT_NAME           = "FlowSieve"
+OUTPUT_DIRECTORY       = build/doxygen
+INPUT                  = ../FlowSieve/src
+RECURSIVE              = YES
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+EXTRACT_ALL             = YES
+EXTRACT_PRIVATE        = NO
+HAVE_DOT               = YES
+CALL_GRAPH              = YES
+CALLER_GRAPH            = YES
+GENERATE_TREEVIEW      = YES
